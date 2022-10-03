@@ -509,7 +509,7 @@ const getValueInput_oversee = () =>{
         var audio = document.createElement("audio");
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
-        document.getElementById("valueInput").innerHTML = "Wrong! Answer: Planed";  
+        document.getElementById("valueInput").innerHTML = "Wrong! Answer: Reviewed";  
         setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
