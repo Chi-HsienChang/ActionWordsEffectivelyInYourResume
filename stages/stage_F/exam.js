@@ -1,7 +1,7 @@
     
     
 const getValueInput_accomplish = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Accomplished" || inputValue == "accomplished"){
@@ -22,7 +22,7 @@ const getValueInput_accomplish = () =>{
   }
 
 const getValueInput_contribute = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Contribute" || inputValue == "contribute"){
@@ -43,7 +43,7 @@ const getValueInput_contribute = () =>{
   }
 
  const getValueInput_ensure = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Ensured" || inputValue == "ensured"){
@@ -65,7 +65,7 @@ const getValueInput_contribute = () =>{
     
     
  const getValueInput_improve = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Improved" || inputValue == "improved"){
@@ -87,7 +87,7 @@ const getValueInput_contribute = () =>{
 
 
  const getValueInput_produce = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Produced" || inputValue == "produced"){
@@ -109,7 +109,7 @@ const getValueInput_contribute = () =>{
 
 
  const getValueInput_achieve = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Achieved" || inputValue == "achieved"){
@@ -131,7 +131,7 @@ const getValueInput_contribute = () =>{
 
 
  const getValueInput_merchandise = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Merchandised" || inputValue == "merchandised"){
@@ -153,7 +153,7 @@ const getValueInput_contribute = () =>{
 
 
    const getValueInput_orchestrate = () =>{
-    let number = Math.floor(Math.random() * 17)+46;
+    let number = Math.floor(Math.random() * 13)+131;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
     if (inputValue == "Orchestrated" || inputValue == "orchestrated"){
