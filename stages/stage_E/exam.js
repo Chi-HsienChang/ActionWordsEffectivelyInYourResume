@@ -259,7 +259,7 @@ const getValueInput_manage = () =>{
     let number = Math.floor(Math.random() * 18)+113;
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
-    if (inputValue == "Spearhead"|| inputValue == "spearhead"){
+    if (inputValue == "Spearheaded"|| inputValue == "spearheaded"){
         var audio = document.createElement("audio");
         audio.src = "../../media/music/true.m4a";
         audio.playbackRate = 1.7;audio.play();
