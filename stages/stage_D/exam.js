@@ -165,7 +165,7 @@ const getValueInput_supervise = () =>{
         var audio = document.createElement("audio");
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
-        document.getElementById("valueInput").innerHTML = "Wrong! Answer: Monitored";  
+        document.getElementById("valueInput").innerHTML = "Wrong! Answer: Monitor";  
         setTimeout(function(){ javascript:window.location.href='learn_D_entry.html'; }, 2000); 
     }
 
