@@ -16,7 +16,7 @@ const getValueInput_accomplish = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Accomplished";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -37,7 +37,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Contribute";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -58,7 +58,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Ensured";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -80,7 +80,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Improved";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -102,7 +102,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Produced";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -124,7 +124,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Achieved";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -146,7 +146,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Merchandised";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -168,7 +168,7 @@ const getValueInput_contribute = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Orchestrated";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -190,7 +190,7 @@ const getValueInput_initiate = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Initiated";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -211,7 +211,7 @@ const getValueInput_Managed = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Managed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -232,7 +232,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: manage";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -254,7 +254,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Manage";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -275,7 +275,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Promote";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -296,7 +296,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Promoted";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -317,7 +317,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: trained";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -338,7 +338,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Trained";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -359,7 +359,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Directed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -381,7 +381,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Mentor";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -402,7 +402,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Mentored";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -423,7 +423,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: raised";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -445,7 +445,7 @@ const getValueInput_manage = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Spearhead";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -468,7 +468,7 @@ const getValueInput_maintain = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Maintained";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -489,7 +489,7 @@ const getValueInput_oversee = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Oversaw";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -510,7 +510,7 @@ const getValueInput_oversee = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Planed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -531,7 +531,7 @@ const getValueInput_supervised = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Supervised";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }  
@@ -552,7 +552,7 @@ const getValueInput_supervise = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Supervise";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -574,7 +574,7 @@ const getValueInput_supervise = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Updated";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -596,7 +596,7 @@ const getValueInput_supervise = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Assessed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -618,7 +618,7 @@ const getValueInput_supervise = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Monitored";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -639,7 +639,7 @@ const getValueInput_supervise = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Monitored";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -660,7 +660,7 @@ const getValueInput_supervise = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Refined";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -683,7 +683,7 @@ const getValueInput_collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: collected";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -704,7 +704,7 @@ const getValueInput_Collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Collected";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -724,7 +724,7 @@ const getValueInput_Collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Completed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -746,7 +746,7 @@ const getValueInput_Collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Conducted";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -768,7 +768,7 @@ const getValueInput_Collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Handled";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -790,7 +790,7 @@ const getValueInput_Collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Performed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -812,7 +812,7 @@ const getValueInput_Collect = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Installed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }   
@@ -835,7 +835,7 @@ const getValueInput_coordinate = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Coordinated";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -856,7 +856,7 @@ const getValueInput_design = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Designed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -877,7 +877,7 @@ const getValueInput_design = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Established";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -899,7 +899,7 @@ const getValueInput_design = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Implemented";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -921,7 +921,7 @@ const getValueInput_design = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Organized";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -943,7 +943,7 @@ const getValueInput_design = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Facilitated";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -965,7 +965,7 @@ const getValueInput_design = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Scheduled";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -987,7 +987,7 @@ const getValueInput_develope = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Developed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1008,7 +1008,7 @@ const getValueInput_observe = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Observed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1029,7 +1029,7 @@ const getValueInput_observe = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Planed";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1051,7 +1051,7 @@ const getValueInput_observe = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Prepared";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1073,7 +1073,7 @@ const getValueInput_observe = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Researched";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1095,7 +1095,7 @@ const getValueInput_observe = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Devised";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1117,7 +1117,7 @@ const getValueInput_observe = () =>{
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
         document.getElementById("valueInput").innerHTML = "Wrong! Answer: Evaluated";  
-        setTimeout(function(){ javascript:window.location.href='learn_A_entry.html'; }, 2000); 
+        setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
   }
@@ -1132,7 +1132,7 @@ function start_time()
     number -- ;
     if(number <= 0 ){
         number = 0;
-        javascript:window.location.href='learn_A_entry.html';}     
+        javascript:window.location.href='learn_Challenge_entry.html';}     
      timer.innerText = number + 0 }, 1000);
 }
 
