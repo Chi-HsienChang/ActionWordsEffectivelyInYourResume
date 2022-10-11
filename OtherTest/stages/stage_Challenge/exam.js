@@ -543,7 +543,7 @@ const getValueInput_serve = () =>{
     let number = Math.floor(Math.random() * 86)+1; 
     let link = 'learn_'+number+'.html';
     let inputValue = document.getElementById("domTextElement").value;
-    if (inputValue == "Serves" || inputValue == "serves"){
+    if (inputValue == "Served" || inputValue == "served"){
         var audio = document.createElement("audio");
         audio.src = "../../media/music/true.m4a";
         audio.playbackRate = 1.7;audio.play();
@@ -554,7 +554,7 @@ const getValueInput_serve = () =>{
         var audio = document.createElement("audio");
         audio.src = "../../media/music/false.m4a";
         audio.playbackRate = 1.7;audio.play();
-        document.getElementById("valueInput").innerHTML = "Wrong! Answer: Maintained";  
+        document.getElementById("valueInput").innerHTML = "Wrong! Answer: Served";  
         setTimeout(function(){ javascript:window.location.href='learn_Challenge_entry.html'; }, 2000); 
     }
 
